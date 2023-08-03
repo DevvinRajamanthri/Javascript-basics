@@ -1,16 +1,16 @@
-<h1>Operators</h1>
+<h1>Comparison Operators</h1>
 <h2>Equal to ==</h2>
-    <p>This operator checks if the variable/string on the left is equal to the variable/string on the right </p>
+    <p>This comparison operator checks if the variable/string on the left is equal to the variable/string on the right </p>
 <h2>Not equal to !=</h2>
-<p>This operator checks if the variable/string on the left is not equal to the variable/string on the right</p>
+<p>This comparison operator checks if the variable/string on the left is not equal to the variable/string on the right</p>
 <h2>Greater than > </h2>
-<p>This operator checks if the variable/string on the left is greater than the variable/string on the right</p>
+<p>This comparison operator checks if the variable/string on the left is greater than the variable/string on the right</p>
 <h2>Less than < </h2>
-    <p>This operator checks if the variable/string on the left is less than the variable/string on the right</p>
+    <p>This comparison operator checks if the variable/string on the left is less than the variable/string on the right</p>
 <h2>Greater than or equal to >=</h2>
-    <p>This operator checks if the variable/string on the left is greater than or equal to the variable/string on the right</p>
+    <p>This comparison operator checks if the variable/string on the left is greater than or equal to the variable/string on the right</p>
 <h2>Less than or equal to <= </h2>
-    <p>This operator checks if the variable/string on the left is less than or equal to the variable/string on the right</p> 
+    <p>This comparison operator checks if the variable/string on the left is less than or equal to the variable/string on the right</p> 
 <h1>Example</h1>
 <h3>Example1</h3>
 
