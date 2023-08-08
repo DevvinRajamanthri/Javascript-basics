@@ -60,7 +60,7 @@ console.log(typeof c)<br>
 <br>
 
 <br>
-<code>let c =  ;<br>
+<code>let c;<br>
 <br>  
 console.log(typeof c);
 </code>
@@ -83,10 +83,10 @@ console.log(typeof c);
 <br>
 <p>Lets see what it looks like</p>
 <br><code>let testarray = [test];<br><br></code>
-<code>let a = [array1];<br>
-let b = [array2];<br>
-let c = a + b;<br>  
-console.log(typeof c);
+<code>
+let a = [1,1];
+<br>  
+console.log(typeof a);
 </code>
 <br>
 <p>the result will say that c is a  array</p>
