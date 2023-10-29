@@ -71,5 +71,5 @@ a = [“hi”,”hello”,”hola”];<br>
 a.pop()<br>
 Result:[“hi”,”hello”];<br>
 </code>
-<h3>How to remove an element from the front of an array.</h3>
-First call the splice function.<br> Then write the beginning index of the array in the first parameter of the splice function and how many elements you want to remove after the specified index.
+<h3>How to remove an element from an array.</h3>
+First call the splice function.<br> Then write the index of the array you want to remove in the array. Then write how many elements you want to remove after the specified index.
