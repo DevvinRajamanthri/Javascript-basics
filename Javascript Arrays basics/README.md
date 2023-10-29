@@ -67,9 +67,16 @@ Now, i’m going to tell you how to remove a element from the end of a array.<br
 First, write the array name then a period then call the pop function.<br>
 Example: <br>
 <code>
-a = [“hi”,”hello”,”hola”];<br>
+let a = [“hi”,”hello”,”hola”];<br>
 a.pop()<br>
 Result:[“hi”,”hello”];<br>
 </code>
 <h3>How to remove an element from an array.</h3>
 First call the splice function.<br> Then write the index of the array you want to remove in the array. Then write how many elements you want to remove after the specified index.
+<br>
+Example:<br>
+<code>
+let a = [“hi”,”hello”,”hola”];<br>
+a.splice(0,1)<br>
+Result:[“hi”,”hello”];<br>
+</code>
