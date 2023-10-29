@@ -78,5 +78,5 @@ Example:<br>
 <code>
 let a = [“hi”,”hello”,”hola”];<br>
 a.splice(0,1)<br>
-Result:[“hi”,”hello”];<br>
+Result:[“hello”,”hola”];<br>
 </code>
