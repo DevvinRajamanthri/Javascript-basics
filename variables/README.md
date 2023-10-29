@@ -16,6 +16,7 @@ on the right there is a string with the value hello. The value hello is then tra
 <p>If a = 3 and b = 9 the console.log(a x b) will equal 9.</p>
 <h>Concatnation</h2>
 <p>concatination adds two strings together so if a = "hello" and b = "world" the final result will be "helloworld"</p>
-<p>addition adds two intigers together so if a = 3 and b = 3 the final result will be 6</</p>
+<p>addition adds two intigers together so if a = 3 and b = 3 the final result will be 6</p>
     
 
+<code>
