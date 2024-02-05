@@ -20,4 +20,4 @@
 <p>Now i will write what the Eventlistener which checks if the button is clicked and if it is the eventlistener triggers the function</p><br>
 <p>first i will write the variable name then i will write a dot. I will write addEventListener after the dot then write paranthisis and inside the paraenthis i will write the event as the first parameter then then function name in the second so then that will be the function that that gets trigged</p>
 <pre>element.addEventListener('click',onClick)</pre>
-<image src = "example1.png" width = "700" height = "500">
+<image src = "example1.png" width = "700" height = "500">  
