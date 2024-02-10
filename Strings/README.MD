@@ -39,12 +39,14 @@ i = "updated_string"
 </code>
 <!-- next -->
 
-<h2>How to update a element of the string</h2>
-<p>To update an element use replace()</p>
-<code>let i  = "replace"<br>
-replace(index_of_the_element_you_want_to_replace, what_you_want_to_replace_it_with)<br>
-i.replace(1, "a")<br>
-<p>the result will be "raplaced</p>
+<h2>How to update a word of the string</h2>
+<p>To update an word use replace()</p>
+<code>let i  = "replace Devvin"<br>
+replace(index_of_the_word_you_want_to_replace, what_you_want_to_replace_it_with)<br>
+i.replace("replace", "Hello")<br>
+<p>the result will be "Hello Devvin"
+<br>
+<p>And not "replace Devvin"</p>
 
 </code>
 <!-- next -->
